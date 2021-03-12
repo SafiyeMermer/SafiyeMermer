@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SafiyeMermer
 - 👀 I’m interested in software
-- 🌱 I’m currently learning c# programming language
+
 
 
 <!---
